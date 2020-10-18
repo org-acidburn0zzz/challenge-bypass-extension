@@ -7,8 +7,8 @@
     "url": "https://github.com/privacypass/challenge-bypass-extension"
   },
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
     "atob": "^2.1.2",
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
